@@ -51,6 +51,7 @@
 
 ## C 
 
+- [rsyslog/rsyslog](https://github.com/rsyslog/rsyslog) - a Rocket-fast SYStem for LOG processing
 - [kakwa/ldfl](https://github.com/kakwa/ldfl) - ld-fliar: a File Lying Library. LD_PRELOAD library remapping files to other location or in memory embedding.
 - [e-dant/salmagundi](https://github.com/e-dant/salmagundi) - A small, portable, linear probing hash map
 - [benhoyt/inih](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems
@@ -312,6 +313,7 @@
 
 ## Others 
 
+- [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [Mindbaz/awesome-opensource-email](https://github.com/Mindbaz/awesome-opensource-email) - Awesome Opensource Email Resources
 - [alexellis/awesome-baremetal](https://github.com/alexellis/awesome-baremetal) - Bare-metal is awesome. Let's share our favourite tools.
 - [gaul/awesome-ld-preload](https://github.com/gaul/awesome-ld-preload) - List of resources related to LD_PRELOAD, a mechanism for changing application behavior at run-time
