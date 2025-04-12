@@ -95,6 +95,7 @@
 
 ## C++ 
 
+- [mendersoftware/mender](https://github.com/mendersoftware/mender) - Mender over-the-air software updater client.
 - [electronicarts/CnC_Red_Alert](https://github.com/electronicarts/CnC_Red_Alert) - Command and Conquer: Red Alert
 - [PaddleStroke/FreeCAD](https://github.com/PaddleStroke/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
 - [AstoCAD/FreeCAD](https://github.com/AstoCAD/FreeCAD) - This is the official source code of AstoCAD, an opensource multiplatform 3D parametric modeler based on FreeCAD.
@@ -180,7 +181,7 @@
 - [scratchdata/scratchdata](https://github.com/scratchdata/scratchdata) - Scratch is a swiss army knife for big data.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
 - [goxgen/goxgen](https://github.com/goxgen/goxgen) - Create your project based on GraphQL SDL
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google
 - [google/seesaw](https://github.com/google/seesaw) - Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform.
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
@@ -299,8 +300,10 @@
 
 ## Makefile 
 
+- [kakwa/kakwalab-pkg](https://github.com/kakwa/kakwalab-pkg) - RPM & DEB packages for my projects
 - [kakwa/tkw-font](https://github.com/kakwa/tkw-font) - Tiny kakwa font, a 7 pixels bitmap font
 - [OpenSLO/OpenSLO](https://github.com/OpenSLO/OpenSLO) - Open specification for defining and expressing service level objectives (SLO)
+- [kakwa/debian-rpm-build-tools](https://github.com/kakwa/debian-rpm-build-tools) - Debian Packaging of various RPM build tools and dependencies (mock, dnf, etc)
 - [kakwa/kakwafont](https://github.com/kakwa/kakwafont) - Kakwafont, a 12px monospace bitmap font based on Terminus
 
 ## Markdown 
@@ -347,6 +350,7 @@
 
 ## Python 
 
+- [kakwa/epoch](https://github.com/kakwa/epoch) - Recreated repository
 - [openfisca/openfisca-core](https://github.com/openfisca/openfisca-core) - OpenFisca core engine. See other repositories for countries-specific code & data.
 - [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
 - [Tencent/HunyuanVideo](https://github.com/Tencent/HunyuanVideo) - HunyuanVideo: A Systematic Framework For Large Video Generation Model
@@ -446,7 +450,6 @@
 ## Shell 
 
 - [kakwa/slack-discord-misc-pkg](https://github.com/kakwa/slack-discord-misc-pkg) - 
-- [kakwa/kakwalab-pkg](https://github.com/kakwa/kakwalab-pkg) - RPM & DEB packages for my projects
 - [kakwa/misc-pkg](https://github.com/kakwa/misc-pkg) - Misc .rpm & .deb packages for third-party projects
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [kakwa/pakste](https://github.com/kakwa/pakste) - Pakste: deb/rpm packaging & repo publishing toolkit leveraging Github Actions & Github Pages
@@ -456,7 +459,6 @@
 - [kakwa/gen-badge](https://github.com/kakwa/gen-badge) - Small shell script to generate a "Travis-CI" like SVG status badges/shields
 - [kisscool/shell-dancer](https://github.com/kisscool/shell-dancer) - A very experimental web framework in POSIX shell inspired by Sinatra
 - [rhasspy/rhasspy](https://github.com/rhasspy/rhasspy) - Offline private voice assistant for many human languages
-- [kakwa/debian-rpm-build-tools](https://github.com/kakwa/debian-rpm-build-tools) - Debian Packaging of various RPM build tools and dependencies (mock, dnf, etc)
 - [kakwa/amkecpak](https://github.com/kakwa/amkecpak) - Amkecpak, a makefile based packaging framework.
 - [lamw/ghettoVCB](https://github.com/lamw/ghettoVCB) - ghettoVCB
 - [kakwa/genautoo](https://github.com/kakwa/genautoo) - Genautoo: an automated installer for gentoo
