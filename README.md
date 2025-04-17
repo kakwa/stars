@@ -9,6 +9,7 @@
 - [AI](#ai)
 - [Awesome Lists](#awesome-lists)
 - [Desktop App](#desktop-app)
+- [Firmware](#firmware)
 - [Games](#games)
 - [Hacking](#hacking)
 - [Infra - App Server/Misc](#infra---app-server/misc)
@@ -65,6 +66,10 @@
 - [kakwa/dwm-desktop](https://github.com/kakwa/dwm-desktop) - dwm + configuration + mods + shell utilities
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 
+## Firmware 
+
+- [MitchBradley/openfirmware](https://github.com/MitchBradley/openfirmware) - Open Firmware (IEE1275-1994) implementation by its inventor.
+
 ## Games 
 
 - [electronicarts/CnC_Red_Alert](https://github.com/electronicarts/CnC_Red_Alert) - Command and Conquer: Red Alert
@@ -75,6 +80,7 @@
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [Chr157i4n/PyTmcStepper](https://github.com/Chr157i4n/PyTmcStepper) - This is a Python libary to drive a stepper motor with a Trinamic stepper driver and a single board computer like a Raspberry Pi
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
+- [4chan-org/4chan](https://github.com/4chan-org/4chan) - Source code of 4chan.org
 
 ## Infra - App Server/Misc 
 
