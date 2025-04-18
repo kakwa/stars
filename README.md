@@ -366,6 +366,7 @@
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [openfisca/openfisca-core](https://github.com/openfisca/openfisca-core) - OpenFisca core engine. See other repositories for countries-specific code & data.
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
+- [bobschrag/clolog](https://github.com/bobschrag/clolog) - Full-featured logic programming (AKA "Prolog") embedded in/callable from and supporting calls to Clojure.  In the spirit of LogLisp, Lisp Machine Prolog, and Franz Inc.'s Allegro Prolog, with some ext
 
 ## Tools 
 
