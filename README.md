@@ -12,6 +12,7 @@
 - [Firmware](#firmware)
 - [Games](#games)
 - [Hacking](#hacking)
+- [Hardware](#hardware)
 - [Infra - App Server/Misc](#infra---app-server/misc)
 - [Infra - Config Management](#infra---config-management)
 - [Infra - DB](#infra---db)
@@ -81,6 +82,10 @@
 - [Chr157i4n/PyTmcStepper](https://github.com/Chr157i4n/PyTmcStepper) - This is a Python libary to drive a stepper motor with a Trinamic stepper driver and a single board computer like a Raspberry Pi
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
 - [4chan-org/4chan](https://github.com/4chan-org/4chan) - Source code of 4chan.org
+
+## Hardware 
+
+- [openrisc/mor1kx](https://github.com/openrisc/mor1kx) - mor1kx - an OpenRISC 1000 processor IP core
 
 ## Infra - App Server/Misc 
 
