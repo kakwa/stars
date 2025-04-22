@@ -28,6 +28,7 @@
 - [Misc](#misc)
 - [Tools](#tools)
 - [WoWs stuff](#wows-stuff)
+- [ldap](#ldap)
 
 ## 3D Printing 
 
@@ -439,6 +440,10 @@
 - [landaire/wowsdeob](https://github.com/landaire/wowsdeob) - 
 - [landaire/wowsunpack](https://github.com/landaire/wowsunpack) - 
 - [wgmods/ModSDK](https://github.com/wgmods/ModSDK) - 
+
+## ldap 
+
+- [dnknth/ldap-ui](https://github.com/dnknth/ldap-ui) - Minimalistic web frontend for OpenLDAP
 
 
 ## License
