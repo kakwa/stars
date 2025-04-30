@@ -65,6 +65,7 @@
 ## Data Analytics 
 
 - [514-labs/moose](https://github.com/514-labs/moose) - The developer framework for your data & analytics stack
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 
 ## Desktop App 
 
@@ -380,6 +381,7 @@
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [bobschrag/clolog](https://github.com/bobschrag/clolog) - Full-featured logic programming (AKA "Prolog") embedded in/callable from and supporting calls to Clojure.  In the spirit of LogLisp, Lisp Machine Prolog, and Franz Inc.'s Allegro Prolog, with some ext
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 
 ## Tools 
 
