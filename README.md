@@ -358,7 +358,7 @@
 - [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
 - [oxalica/onedrive-fuse](https://github.com/oxalica/onedrive-fuse) - [not actively maintained] Mount your Microsoft OneDrive storage as FUSE filesystem.
 - [odin-lang/Odin](https://github.com/odin-lang/Odin) - Odin Programming Language
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [jjyg/github-banner](https://github.com/jjyg/github-banner) - 
 - [oxidecomputer/hubris](https://github.com/oxidecomputer/hubris) - A lightweight, memory-protected, message-passing kernel for deeply embedded systems.
 - [exein-io/kepler](https://github.com/exein-io/kepler) - NIST-based CVE lookup store and API powered by Rust.
