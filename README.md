@@ -64,7 +64,7 @@
 
 ## Data Analytics 
 
-- [514-labs/moose](https://github.com/514-labs/moose) - The developer framework for your data & analytics stack
+- [514-labs/moose](https://github.com/514-labs/moose) - The developer framework for building analytical backends on top of Clickhouse, Redpanda and other high-performance analytical infrastructure
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 
 ## Desktop App 
