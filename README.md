@@ -116,7 +116,7 @@
 - [Chr157i4n/PyTmcStepper](https://github.com/Chr157i4n/PyTmcStepper) - This is a Python libary to drive a stepper motor with a Trinamic stepper driver and a single board computer like a Raspberry Pi
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
 - [ekomsSavior/AirBorne-PoC](https://github.com/ekomsSavior/AirBorne-PoC) - poc for CVE-2025-24252 & CVE-2025-24132
-- [kakwa/ldfl](https://github.com/kakwa/ldfl) - ld-fliar: a File Lying Library. LD_PRELOAD library remapping files to other location or in memory embedding.
+- [kakwa/ldfl](https://github.com/kakwa/ldfl) - ldfl: a File Lying Library, LD_PRELOAD library remapping files to other location or in memory embedding.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 
@@ -303,7 +303,7 @@
 - [benhoyt/inih](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems
 - [e-dant/salmagundi](https://github.com/e-dant/salmagundi) - A small, portable, linear probing hash map
 - [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
-- [kakwa/ldfl](https://github.com/kakwa/ldfl) - ld-fliar: a File Lying Library. LD_PRELOAD library remapping files to other location or in memory embedding.
+- [kakwa/ldfl](https://github.com/kakwa/ldfl) - ldfl: a File Lying Library, LD_PRELOAD library remapping files to other location or in memory embedding.
 - [jstedfast/gmime](https://github.com/jstedfast/gmime) - A C/C++ MIME creation and parser library with support for S/MIME, PGP, and Unix mbox spools.
 
 ## Library - CPP 
