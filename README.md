@@ -185,7 +185,7 @@
 - [supabase/index_advisor](https://github.com/supabase/index_advisor) - PostgreSQL Index Advisor
 - [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL with automatic sharding.
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
-- [514-labs/moose](https://github.com/514-labs/moose) - The developer framework for building analytical backends on top of Clickhouse, Redpanda and other high-performance analytical infrastructure
+- [514-labs/moose](https://github.com/514-labs/moose) - The developer framework for building analytical backends on top of ClickHouse, Redpanda and other high-performance analytical infrastructure
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
 - [redis/hiredis](https://github.com/redis/hiredis) - Minimalistic C client for Redis &gt;= 1.2
 - [yacy/yacy_search_server](https://github.com/yacy/yacy_search_server) - Distributed Peer-to-Peer Web Search Engine and Intranet Search Appliance
