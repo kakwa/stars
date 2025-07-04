@@ -43,6 +43,7 @@
 - [PaddleStroke/FreeCAD](https://github.com/PaddleStroke/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
 - [lhndo/LH-Stinger](https://github.com/lhndo/LH-Stinger) - Fast, Precise, Cartesian, FDM 3D Printer
 - [kakwa/misc-3d-models](https://github.com/kakwa/misc-3d-models) - Misc 3D models from my projects
+- [hannobraun/fornjot](https://github.com/hannobraun/fornjot) - Early-stage b-rep CAD kernel, written in the Rust programming language.
 
 ## AI 
 
@@ -277,7 +278,7 @@
 - [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
-- [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) - Open source, self-hosted customer support desk. Single binary app.
+- [abhinavxd/libredesk](https://github.com/abhinavxd/libredesk) - Modern, Open source, Self-hosted customer support desk. Single binary app.
 
 ## Languages 
 
@@ -427,6 +428,8 @@
 - [cetic/oscar-cbls](https://github.com/cetic/oscar-cbls) - oscar-cbls
 - [kakwa/supybot-plugin-seloger](https://github.com/kakwa/supybot-plugin-seloger) - supybot plugin for seloger
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+- [seazon/FeedMe](https://github.com/seazon/FeedMe) - The documents and forum of FeedMe
+- [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT) - Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
 
 ## Software for 127.0.0.1 
 
