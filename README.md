@@ -433,6 +433,7 @@
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [seazon/FeedMe](https://github.com/seazon/FeedMe) - The documents and forum of FeedMe
 - [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT) - Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
+- [goplus/xgo](https://github.com/goplus/xgo) - XGo is the first AI-native programming language that integrates software engineering into a unified whole. Our vision is to enable everyone to become a builder of the world.
 
 ## Software for 127.0.0.1 
 
