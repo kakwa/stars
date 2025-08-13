@@ -45,6 +45,7 @@
 - [kakwa/misc-3d-models](https://github.com/kakwa/misc-3d-models) - Misc 3D models from my projects
 - [hannobraun/fornjot](https://github.com/hannobraun/fornjot) - Early-stage b-rep CAD kernel, written in the Rust programming language.
 - [shaise/FreeCAD_FastenersWB](https://github.com/shaise/FreeCAD_FastenersWB) - A workbench to add/attach various fasteners to parts
+- [FreeCAD/FreeCAD-library](https://github.com/FreeCAD/FreeCAD-library) - A library of Parts for FreeCAD. WARNING - This library is huge. It might take a long time to download and make the addons manager unresponsive for many minutes.
 
 ## AI 
 
