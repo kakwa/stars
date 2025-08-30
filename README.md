@@ -323,7 +323,7 @@
 - [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C++
 - [LibreOffice/libvisio](https://github.com/LibreOffice/libvisio) - Read-only Mirror - no pull request
 - [kakwa/libvisio2svg](https://github.com/kakwa/libvisio2svg) - Library/Tools to convert Microsoft (MS) Visio documents (VSS and VSD) to SVG
-- [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high compression read-only file system for Linux, Windows and macOS
+- [mhx/dwarfs](https://github.com/mhx/dwarfs) - A fast high-compression read-only file system for Linux, FreeBSD, macOS and Windows
 - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
 
 ## Library - Javascript 
