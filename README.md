@@ -354,6 +354,7 @@
 
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology
 - [kakwa/sytadin-scraper](https://github.com/kakwa/sytadin-scraper) - sytadin traffic info scraper written in perl
+- [fpoirotte/pssht](https://github.com/fpoirotte/pssht) - SSH server written in PHP
 
 ## Library - Python 
 
