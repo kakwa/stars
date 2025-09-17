@@ -443,6 +443,7 @@
 - [goplus/xgo](https://github.com/goplus/xgo) - XGo is the first AI-native programming language that integrates software engineering into a unified whole. Our vision is to enable everyone to become a builder of the world.
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [lukeorth/poison](https://github.com/lukeorth/poison) - Professional Hugo theme for dev bloggers.  Based on Mdo's classic Hyde theme.
+- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 
 ## Software for 127.0.0.1 
 
