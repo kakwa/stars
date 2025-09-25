@@ -447,6 +447,7 @@
 - [lukeorth/poison](https://github.com/lukeorth/poison) - Professional Hugo theme for dev bloggers.  Based on Mdo's classic Hyde theme.
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS reader
+- [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 
 ## Software for 127.0.0.1 
 
