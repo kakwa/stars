@@ -133,6 +133,8 @@
 - [ExcessiveOverkill/universal-IRC-1](https://github.com/ExcessiveOverkill/universal-IRC-1) - Universal Industrial Robot Controller. Based on using LinuxCNC in combination with Odrives to create a full control system.
 - [murexrobotics/electrical](https://github.com/murexrobotics/electrical) - Highly integrated electronics design and printed circuit boards (PCBs) for the MATE ROV Competition. Attempt the impossible.
 - [opulo-inc/lumenpnp](https://github.com/opulo-inc/lumenpnp) - The LumenPnP is an open source pick and place machine.
+- [ExcessiveMotion/drive-hardware](https://github.com/ExcessiveMotion/drive-hardware) - 
+- [ExcessiveMotion/controller-hardware](https://github.com/ExcessiveMotion/controller-hardware) - 
 
 ## Infra - Compute 
 
