@@ -450,6 +450,7 @@
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS reader
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
+- [apple/ml-simplefold](https://github.com/apple/ml-simplefold) - 
 
 ## Software for 127.0.0.1 
 
