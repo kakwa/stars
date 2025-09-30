@@ -263,6 +263,7 @@
 - [kakwa/uts-server](https://github.com/kakwa/uts-server) - Micro RFC 3161 Time-Stamp server written in C.
 - [LDAPAccountManager/lam](https://github.com/LDAPAccountManager/lam) - LDAP Account Manager
 - [exein-io/kepler](https://github.com/exein-io/kepler) - NIST-based CVE lookup store and API powered by Rust.
+- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 
 ## Infra - Networking 
 
@@ -469,6 +470,7 @@
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
+- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 
 ## Tools - Dev 
 
