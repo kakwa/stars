@@ -48,6 +48,7 @@
 - [FreeCAD/FreeCAD-library](https://github.com/FreeCAD/FreeCAD-library) - A library of Parts for FreeCAD. WARNING - This library is huge. It might take a long time to download and make the addons manager unresponsive for many minutes.
 - [kevinakasam/KlackEnder-Probe](https://github.com/kevinakasam/KlackEnder-Probe) - Klicky / Quickdraw Probe for the Ender 3
 - [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) - CADAM is the open source text-to-CAD web application
+- [Annex-Engineering/Sherpa_Micro-Extruder](https://github.com/Annex-Engineering/Sherpa_Micro-Extruder) - a more compact version of sherpa mini
 
 ## AI 
 
@@ -452,6 +453,7 @@
 - [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS reader
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [apple/ml-simplefold](https://github.com/apple/ml-simplefold) - 
+- [sitandr/typst-examples-book](https://github.com/sitandr/typst-examples-book) - Book of educational examples for Typst
 
 ## Software for 127.0.0.1 
 
