@@ -92,6 +92,7 @@
 - [sphinx-contrib/confluencebuilder](https://github.com/sphinx-contrib/confluencebuilder) - Confluence Markup Builder Plugin for Sphinx
 - [sotte/presenting.vim](https://github.com/sotte/presenting.vim) - A simple tool for presenting slides in vim based on text files.
 - [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 
 ## Games 
 
@@ -423,6 +424,7 @@
 - [wttw/spf](https://github.com/wttw/spf) - Evaluate SPF (Sender Policy Framework) policies
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [jkaninda/okapi](https://github.com/jkaninda/okapi) - OKAPI - Lightweight Minimalist Go Web Framework with OpenAPI 3.0, Swagger UI and robust middleware
+- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 
 ## Misc 
 
