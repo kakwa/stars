@@ -49,6 +49,7 @@
 - [kevinakasam/KlackEnder-Probe](https://github.com/kevinakasam/KlackEnder-Probe) - Klicky / Quickdraw Probe for the Ender 3
 - [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) - CADAM is the open source text-to-CAD web application
 - [Annex-Engineering/Sherpa_Micro-Extruder](https://github.com/Annex-Engineering/Sherpa_Micro-Extruder) - a more compact version of sherpa mini
+- [florianfesti/boxes](https://github.com/florianfesti/boxes) - Boxes.py - laser cutting boxes and more
 
 ## AI 
 
@@ -62,6 +63,8 @@
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [trymirai/uzu](https://github.com/trymirai/uzu) - A high-performance inference engine for AI models
+- [microsoft/amplifier](https://github.com/microsoft/amplifier) - 
+- [666ghj/BettaFish](https://github.com/666ghj/BettaFish) - 微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
 
 ## Awesome Lists 
 
@@ -184,7 +187,7 @@
 - [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 - [vespa-engine/vespa](https://github.com/vespa-engine/vespa) - AI + Data, online. https://vespa.ai
 - [AlexTatiyants/pev](https://github.com/AlexTatiyants/pev) - Postgres Explain Visualizer
-- [hypermodeinc/dgraph](https://github.com/hypermodeinc/dgraph) - high-performance graph database for real-time use cases
+- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - high-performance graph database for real-time use cases
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [simon-engledew/gocmdpev](https://github.com/simon-engledew/gocmdpev) - A command-line GO Postgres query visualizer, heavily inspired by pev (https://github.com/AlexTatiyants/pev)
@@ -202,6 +205,7 @@
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [aws/pgactive](https://github.com/aws/pgactive) - 
+- [wizenheimer/blaze](https://github.com/wizenheimer/blaze) - Full Text Search Engine - built for Hackers not Hyperscalers
 
 ## Infra - Email 
 
@@ -251,7 +255,7 @@
 - [Syllo/nvtop](https://github.com/Syllo/nvtop) - GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm
 - [fleetdm/fleet](https://github.com/fleetdm/fleet) - Open device management
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
-- [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by Clickhouse and OpenTelemetry.
+- [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors powered by ClickHouse and OpenTelemetry.
 - [google/osv.dev](https://github.com/google/osv.dev) - Open source vulnerability DB and triage service.
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -356,6 +360,8 @@
 - [linagora/jmap-client-ts](https://github.com/linagora/jmap-client-ts) - JMAP 1.0 client library in TypeScript
 - [lucaong/minisearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
 - [olivernn/lunr.js](https://github.com/olivernn/lunr.js) - A bit like Solr, but much smaller and not as bright
+- [jmapio/jmap-js](https://github.com/jmapio/jmap-js) - A full JavaScript implementation of the JMAP data model
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 
 ## Library - Misc 
 
@@ -368,7 +374,7 @@
 - [spulec/freezegun](https://github.com/spulec/freezegun) - Let your Python tests travel through time
 - [python-smpplib/python-smpplib](https://github.com/python-smpplib/python-smpplib) - SMPP library for Python
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [nedbat/coveragepy](https://github.com/nedbat/coveragepy) - The code coverage tool for Python
+- [coveragepy/coveragepy](https://github.com/coveragepy/coveragepy) - The code coverage tool for Python
 - [cherrypy/cherrypy](https://github.com/cherrypy/cherrypy) - CherryPy is a pythonic, object-oriented HTTP framework.      https://cherrypy.dev
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
@@ -381,6 +387,7 @@
 - [kakwa/pygraph_redis](https://github.com/kakwa/pygraph_redis) - Simple python library to manipulate directed graphs in redis
 - [kakwa/pylogic](https://github.com/kakwa/pylogic) - Python Module for Logical Validation (forked from Rob Truxler library)
 - [meltano/meltano](https://github.com/meltano/meltano) - Meltano: the declarative code-first data integration engine that powers your wildest data and ML-powered product ideas. Say goodbye to writing, maintaining, and scaling your own API integrations.
+- [scour-project/scour](https://github.com/scour-project/scour) - Scour - An SVG Optimizer / Cleaner
 
 ## Library - Rust 
 
@@ -388,6 +395,7 @@
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver
 - [elodin-sys/elodin](https://github.com/elodin-sys/elodin) - Elodin simulation and flight software monorepo.
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
+- [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 
 ## Libray - Golang 
 
@@ -425,6 +433,7 @@
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [jkaninda/okapi](https://github.com/jkaninda/okapi) - OKAPI - Lightweight Minimalist Go Web Framework with OpenAPI 3.0, Swagger UI and robust middleware
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
+- [emersion/go-smtp](https://github.com/emersion/go-smtp) - 📤 An SMTP library for Go clients and servers
 
 ## Misc 
 
@@ -451,13 +460,14 @@
 - [goplus/xgo](https://github.com/goplus/xgo) - XGo is the first AI-native programming language that integrates software engineering into a unified whole. Our vision is to enable everyone to become a builder of the world.
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [lukeorth/poison](https://github.com/lukeorth/poison) - Professional Hugo theme for dev bloggers.  Based on Mdo's classic Hyde theme.
-- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS reader
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [apple/ml-simplefold](https://github.com/apple/ml-simplefold) - 
 - [sitandr/typst-examples-book](https://github.com/sitandr/typst-examples-book) - Book of educational examples for Typst
 - [lonkaars/typst-metalogo](https://github.com/lonkaars/typst-metalogo) - Typeset LaTeX compiler logos in typst
 - [DeveloperPaul123/modern-cv](https://github.com/DeveloperPaul123/modern-cv) - A modern resume template written in Typst, inspired by Awesome-CV
+- [get-icon/geticon](https://github.com/get-icon/geticon) - Web / IT project stack / tool / technique icon / logo collection & markdown / HTML generator :electron:🚀
 
 ## Software for 127.0.0.1 
 
@@ -478,6 +488,7 @@
 - [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux
+- [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 
 ## Tools - Dev 
 
