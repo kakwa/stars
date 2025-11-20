@@ -130,6 +130,7 @@
 - [kakwa/ldfl](https://github.com/kakwa/ldfl) - ldfl: a File Lying Library, LD_PRELOAD library remapping files to other location or in memory embedding.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
+- [medusalix/FreeMDU](https://github.com/medusalix/FreeMDU) - Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface
 
 ## Hardware 
 
