@@ -207,6 +207,7 @@
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [aws/pgactive](https://github.com/aws/pgactive) - 
 - [wizenheimer/blaze](https://github.com/wizenheimer/blaze) - Full Text Search Engine - built for Hackers not Hyperscalers
+- [SiriDB/siridb-server](https://github.com/SiriDB/siridb-server) - SiriDB is a highly-scalable, robust and super fast time series database. Build from the ground up SiriDB uses a unique mechanism to operate without a global index and allows server resources to be add
 
 ## Infra - Email 
 
@@ -271,6 +272,7 @@
 - [LDAPAccountManager/lam](https://github.com/LDAPAccountManager/lam) - LDAP Account Manager
 - [exein-io/kepler](https://github.com/exein-io/kepler) - NIST-based CVE lookup store and API powered by Rust.
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
+- [SiriDB/siridb-server](https://github.com/SiriDB/siridb-server) - SiriDB is a highly-scalable, robust and super fast time series database. Build from the ground up SiriDB uses a unique mechanism to operate without a global index and allows server resources to be add
 
 ## Infra - Networking 
 
