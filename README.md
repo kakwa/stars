@@ -434,7 +434,7 @@
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
 - [wttw/spf](https://github.com/wttw/spf) - Evaluate SPF (Sender Policy Framework) policies
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
-- [jkaninda/okapi](https://github.com/jkaninda/okapi) - OKAPI - Lightweight Minimalist Go Web Framework with OpenAPI 3.0, Swagger UI and robust middleware
+- [jkaninda/okapi](https://github.com/jkaninda/okapi) - Okapi – A lightweight, expressive, and minimalist Go web framework with built-in OpenAPI 3.0, Swagger UI, and powerful middleware support.
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [emersion/go-smtp](https://github.com/emersion/go-smtp) - 📤 An SMTP library for Go clients and servers
 
