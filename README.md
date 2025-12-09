@@ -461,7 +461,7 @@
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [seazon/FeedMe](https://github.com/seazon/FeedMe) - The documents and forum of FeedMe
 - [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT) - Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.
-- [goplus/xgo](https://github.com/goplus/xgo) - XGo is programming that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript, creating a unified software engineering ecosys
+- [goplus/xgo](https://github.com/goplus/xgo) - XGo is a programming language that reads like plain English. But it's also incredibly powerful — it lets you leverage assets from C/C++, Go, Python, and JavaScript/TypeScript, creating a unified softw
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [lukeorth/poison](https://github.com/lukeorth/poison) - Professional Hugo theme for dev bloggers.  Based on Mdo's classic Hyde theme.
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
