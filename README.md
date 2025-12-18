@@ -274,6 +274,7 @@
 - [exein-io/kepler](https://github.com/exein-io/kepler) - NIST-based CVE lookup store and API powered by Rust.
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 - [SiriDB/siridb-server](https://github.com/SiriDB/siridb-server) - SiriDB is a highly-scalable, robust and super fast time series database. Build from the ground up SiriDB uses a unique mechanism to operate without a global index and allows server resources to be add
+- [kakwa/rsyslog-splunk-plugin](https://github.com/kakwa/rsyslog-splunk-plugin) - rsyslog output plugin for splunk using the splunk-to-splunk (s2s) protocol
 
 ## Infra - Networking 
 
@@ -515,6 +516,7 @@
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [EbodShojaei/bake](https://github.com/EbodShojaei/bake) - mbake is a Makefile formatter and linter. It only took 50 years!
 - [EpicGamesExt/raddebugger](https://github.com/EpicGamesExt/raddebugger) - A native, user-mode, multi-process, graphical debugger.
+- [kovetskiy/mark](https://github.com/kovetskiy/mark) - Sync your markdown files with Confluence pages.
 
 ## Tools - Infra 
 
