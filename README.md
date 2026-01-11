@@ -50,6 +50,7 @@
 - [Adam-CAD/CADAM](https://github.com/Adam-CAD/CADAM) - CADAM is the open source text-to-CAD web application
 - [Annex-Engineering/Sherpa_Micro-Extruder](https://github.com/Annex-Engineering/Sherpa_Micro-Extruder) - a more compact version of sherpa mini
 - [florianfesti/boxes](https://github.com/florianfesti/boxes) - Boxes.py - laser cutting boxes and more
+- [Sienci-Labs/gsender](https://github.com/Sienci-Labs/gsender) - Connect to and control grbl and grblHAL-based CNCs with ease
 
 ## AI 
 
