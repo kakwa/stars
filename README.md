@@ -503,6 +503,7 @@
 - [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 - [militu/electrical-panel-label](https://github.com/militu/electrical-panel-label) - 🇬🇧 A simple, open-source web app for designing and printing electrical panel labels. 🇫🇷 Application web simple et open-source pour créer et imprimer des étiquettes de tableau électrique.
+- [jibrilsharafi/EnergyMe-Home](https://github.com/jibrilsharafi/EnergyMe-Home) - Smart energy meter capable of monitoring up to 17 channels. Supports MQTT, REST API, Modbus TCP, InfluxDB, AWS IoT Core. Friendly UI and fully open source (PCB, schematics, components, source code)
 
 ## Tools - Dev 
 
