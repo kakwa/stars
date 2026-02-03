@@ -58,7 +58,7 @@
 
 - [huggingface/trl](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [axolotl-ai-cloud/axolotl](https://github.com/axolotl-ai-cloud/axolotl) - Go ahead and axolotl questions
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [Acly/krita-ai-diffusion](https://github.com/Acly/krita-ai-diffusion) - Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
@@ -243,6 +243,7 @@
 - [frappe/helpdesk](https://github.com/frappe/helpdesk) - Modern, Streamlined, Free and Open Source Customer Service Software
 - [joewalnes/websocketd](https://github.com/joewalnes/websocketd) - Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets.
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
 
 ## Infra - Monitoring & Security 
 
@@ -281,6 +282,7 @@
 - [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 and our Internet-Draft: https://datatracker.ietf.org/doc/draft-michel-ssh3/
 - [SiriDB/siridb-server](https://github.com/SiriDB/siridb-server) - SiriDB is a highly-scalable, robust and super fast time series database. Build from the ground up SiriDB uses a unique mechanism to operate without a global index and allows server resources to be add
 - [kakwa/rsyslog-splunk-plugin](https://github.com/kakwa/rsyslog-splunk-plugin) - rsyslog output plugin for splunk using the splunk-to-splunk (s2s) protocol
+- [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 
 ## Infra - Networking 
 
@@ -288,6 +290,7 @@
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [google/seesaw](https://github.com/google/seesaw) - Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform.
 - [acassen/keepalived](https://github.com/acassen/keepalived) - Keepalived
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
 
 ## Infra - Operating Systems 
 
@@ -444,7 +447,7 @@
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
 - [wttw/spf](https://github.com/wttw/spf) - Evaluate SPF (Sender Policy Framework) policies
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
-- [jkaninda/okapi](https://github.com/jkaninda/okapi) - Okapi – A lightweight, expressive, and minimalist Go web framework with built-in OpenAPI 3.0, Swagger UI, and powerful middleware support.
+- [jkaninda/okapi](https://github.com/jkaninda/okapi) - Okapi – A lightweight, expressive, and minimalist Go web framework with built-in OpenAPI 3, Swagger UI, and powerful middleware support.
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [emersion/go-smtp](https://github.com/emersion/go-smtp) - 📤 An SMTP library for Go clients and servers
 
@@ -506,6 +509,7 @@
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 - [militu/electrical-panel-label](https://github.com/militu/electrical-panel-label) - 🇬🇧 A simple, open-source web app for designing and printing electrical panel labels. 🇫🇷 Application web simple et open-source pour créer et imprimer des étiquettes de tableau électrique.
 - [jibrilsharafi/EnergyMe-Home](https://github.com/jibrilsharafi/EnergyMe-Home) - Smart energy meter capable of monitoring up to 17 channels. Supports MQTT, REST API, Modbus TCP, InfluxDB, AWS IoT Core. Friendly UI and fully open source (PCB, schematics, components, source code)
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
 
 ## Tools - Dev 
 
