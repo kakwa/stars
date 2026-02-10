@@ -16,6 +16,7 @@
 - [Infra - Config Management](#infra---config-management)
 - [Infra - DB](#infra---db)
 - [Infra - Email](#infra---email)
+- [Infra - HPC](#infra---hpc)
 - [Infra - Misc](#infra---misc)
 - [Infra - Monitoring & Security](#infra---monitoring-&-security)
 - [Infra - Networking](#infra---networking)
@@ -97,7 +98,7 @@
 - [OpenSLO/OpenSLO](https://github.com/OpenSLO/OpenSLO) - Open specification for defining and expressing service level objectives (SLO)
 - [sphinx-contrib/confluencebuilder](https://github.com/sphinx-contrib/confluencebuilder) - Confluence Markup Builder Plugin for Sphinx
 - [sotte/presenting.vim](https://github.com/sotte/presenting.vim) - A simple tool for presenting slides in vim based on text files.
-- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. New English strings for new features at imports/i18n/data/en.i18n.json . Non-English translations at https://app.transifex.com/wekan/wekan only.
+- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . New English strings for new features a
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [TomVer99/Typst-checklist-template](https://github.com/TomVer99/Typst-checklist-template) - A Typst template for checklists
 - [polylux-typ/polylux](https://github.com/polylux-typ/polylux) - A package for creating slides in Typst
@@ -225,6 +226,11 @@
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [abusix/xarf](https://github.com/abusix/xarf) - XARF - eXtended Abuse Reporting Format
 - [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
+
+## Infra - HPC 
+
+- [SlinkyProject/slurm-operator](https://github.com/SlinkyProject/slurm-operator) - Run Slurm on Kubernetes. A Slinky project.
+- [SchedMD/slurm](https://github.com/SchedMD/slurm) - Slurm: A Highly Scalable Workload Manager
 
 ## Infra - Misc 
 
