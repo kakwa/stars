@@ -73,7 +73,7 @@
 ## Awesome Lists 
 
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
-- [zoidyzoidzoid/awesome-ebpf](https://github.com/zoidyzoidzoid/awesome-ebpf) - A curated list of awesome projects related to eBPF.
+- [qmonnet/awesome-ebpf](https://github.com/qmonnet/awesome-ebpf) - A curated list of awesome projects related to eBPF.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [awsdocs/amazon-rds-user-guide](https://github.com/awsdocs/amazon-rds-user-guide) - The open source version of the Amazon RDS docs. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull request.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
