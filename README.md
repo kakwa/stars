@@ -456,6 +456,7 @@
 - [jkaninda/okapi](https://github.com/jkaninda/okapi) - Okapi – A lightweight, expressive, and minimalist Go web framework with built-in OpenAPI 3, Swagger UI, ReDoc, and powerful middleware support.
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [emersion/go-smtp](https://github.com/emersion/go-smtp) - 📤 An SMTP library for Go clients and servers
+- [RichardKnop/machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
 
 ## Misc 
 
