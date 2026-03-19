@@ -494,6 +494,7 @@
 - [get-icon/geticon](https://github.com/get-icon/geticon) - Web / IT project stack / tool / technique icon / logo collection & markdown / HTML generator :electron:🚀
 - [bhdicaire/visioStencils](https://github.com/bhdicaire/visioStencils) - 4,486 visio :art: shapes, stencils, symbols, and icons collection to visually represent your IT infrastructure
 - [militu/electrical-panel-label](https://github.com/militu/electrical-panel-label) - 🇬🇧 A simple, open-source web app for designing and printing electrical panel labels. 🇫🇷 Application web simple et open-source pour créer et imprimer des étiquettes de tableau électrique.
+- [tvroylandt/legion_honneur](https://github.com/tvroylandt/legion_honneur) - Obtenir la Légion d'honneur en 10 étapes
 
 ## Software for 127.0.0.1 
 
