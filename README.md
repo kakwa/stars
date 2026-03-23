@@ -403,7 +403,7 @@
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [mbr/asciitree](https://github.com/mbr/asciitree) - +-- ASCII Trees.
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [kakwa/py-ascii-graph](https://github.com/kakwa/py-ascii-graph) - A simple python lib to print data as ascii histograms
 - [getmoto/moto](https://github.com/getmoto/moto) - A library that allows you to easily mock out tests based on AWS infrastructure.
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python client
