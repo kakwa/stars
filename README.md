@@ -132,6 +132,7 @@
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [Chr157i4n/PyTmcStepper](https://github.com/Chr157i4n/PyTmcStepper) - PyTmcStepper is a pure Python library for controlling Trinamic stepper drivers via UART or SPI on platforms like Raspberry Pi and MicroPython devices.
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents
+- [ekomsSavior/AirBorne-PoC](https://github.com/ekomsSavior/AirBorne-PoC) - poc for CVE-2025-24252 & CVE-2025-24132
 - [kakwa/ldfl](https://github.com/kakwa/ldfl) - ldfl: a File Lying Library, LD_PRELOAD library remapping files to other location or in memory embedding.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
@@ -438,7 +439,7 @@
 - [go-acme/lego](https://github.com/go-acme/lego) - Let's Encrypt/ACME client and library written in Go
 - [flashmob/go-guerrilla](https://github.com/flashmob/go-guerrilla) - Mini SMTP server written in golang
 - [BurntSushi/toml](https://github.com/BurntSushi/toml) - TOML parser for Golang with reflection.
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face 
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face
 - [goxgen/goxgen](https://github.com/goxgen/goxgen) - Create your project based on GraphQL SDL
 - [proullon/ramsql](https://github.com/proullon/ramsql) - In-memory SQL engine in Go sql/driver for testing purpose
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go
