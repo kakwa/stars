@@ -385,6 +385,7 @@
 - [olivernn/lunr.js](https://github.com/olivernn/lunr.js) - A bit like Solr, but much smaller and not as bright
 - [jmapio/jmap-js](https://github.com/jmapio/jmap-js) - A full JavaScript implementation of the JMAP data model
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
+- [w8r/martinez](https://github.com/w8r/martinez) - Martinez-Rueda polygon clipping algorithm, does boolean operation on polygons (multipolygons, polygons with holes etc): intersection, union, difference, xor
 
 ## Library - Misc 
 
@@ -495,6 +496,7 @@
 - [bhdicaire/visioStencils](https://github.com/bhdicaire/visioStencils) - 4,486 visio :art: shapes, stencils, symbols, and icons collection to visually represent your IT infrastructure
 - [militu/electrical-panel-label](https://github.com/militu/electrical-panel-label) - 🇬🇧 A simple, open-source web app for designing and printing electrical panel labels. 🇫🇷 Application web simple et open-source pour créer et imprimer des étiquettes de tableau électrique.
 - [tvroylandt/legion_honneur](https://github.com/tvroylandt/legion_honneur) - Obtenir la Légion d'honneur en 10 étapes
+- [kakwa/ci-ggregate](https://github.com/kakwa/ci-ggregate) - Aggregate the CI badges of all my projects automatically
 
 ## Software for 127.0.0.1 
 
@@ -564,6 +566,7 @@
 - [kakwa/gen-badge](https://github.com/kakwa/gen-badge) - Small shell script to generate a "Travis-CI" like SVG status badges/shields
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [devmobasa/wayscriber](https://github.com/devmobasa/wayscriber) - Live overlay for drawing, annotating with zoom, hiding text, and capturing screenshots on Linux. Can be used as whiteboard or blackboard. Highly customisable. Written in Rust.
+- [kakwa/ci-ggregate](https://github.com/kakwa/ci-ggregate) - Aggregate the CI badges of all my projects automatically
 
 ## Tools - Testing 
 
