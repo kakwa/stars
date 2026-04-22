@@ -291,6 +291,7 @@
 - [SiriDB/siridb-server](https://github.com/SiriDB/siridb-server) - SiriDB is a highly-scalable, robust and super fast time series database. Build from the ground up SiriDB uses a unique mechanism to operate without a global index and allows server resources to be add
 - [kakwa/rsyslog-splunk-plugin](https://github.com/kakwa/rsyslog-splunk-plugin) - rsyslog output plugin for splunk using the splunk-to-splunk (s2s) protocol
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 
 ## Infra - Networking 
 
