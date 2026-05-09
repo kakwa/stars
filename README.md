@@ -292,6 +292,7 @@
 - [kakwa/rsyslog-splunk-plugin](https://github.com/kakwa/rsyslog-splunk-plugin) - rsyslog output plugin for splunk using the splunk-to-splunk (s2s) protocol
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform
 
 ## Infra - Networking 
 
