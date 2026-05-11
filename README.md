@@ -126,6 +126,7 @@
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
 - [albertz/planet_wars-cpp](https://github.com/albertz/planet_wars-cpp) - Google AI challenge: Planet Wars game engine and co, C++ implementation
+- [landaire/wows-toolkit](https://github.com/landaire/wows-toolkit) - Swiss army knife for World of Warships
 
 ## Hacking 
 
@@ -574,6 +575,7 @@
 - [devmobasa/wayscriber](https://github.com/devmobasa/wayscriber) - Live overlay for drawing, annotating with zoom, hiding text, and capturing screenshots on Linux. Can be used as whiteboard or blackboard. Highly customisable. Written in Rust.
 - [kakwa/ci-ggregate](https://github.com/kakwa/ci-ggregate) - Aggregate the CI badges of all my projects automatically
 - [dmacvicar/terraform-provider-libvirt](https://github.com/dmacvicar/terraform-provider-libvirt) - Terraform provider to provision infrastructure with Linux's KVM using libvirt
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 
 ## Tools - Testing 
 
