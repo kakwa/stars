@@ -127,7 +127,7 @@
 - [mosra/magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11 graphics middleware for games and data visualization
 - [albertz/planet_wars-cpp](https://github.com/albertz/planet_wars-cpp) - Google AI challenge: Planet Wars game engine and co, C++ implementation
 - [landaire/wows-toolkit](https://github.com/landaire/wows-toolkit) - Swiss army knife for World of Warships
-- [wows-tools/wows-model-exporter](https://github.com/wows-tools/wows-model-exporter) - World of Warships .geometry (3D model) parser
+- [wows-tools/wows-model-exporter](https://github.com/wows-tools/wows-model-exporter) - World of Warships ship model glTF exporter & .geometry parser
 - [wows-tools/wows-extractor-gui](https://github.com/wows-tools/wows-extractor-gui) - QT GUI for extracting/exporting World of Warships resource files and 3d models
 
 ## Hacking 
