@@ -227,7 +227,7 @@
 - [haraka/Haraka](https://github.com/haraka/Haraka) - A fast, highly extensible, and event driven SMTP server
 - [KumoCorp/kumomta](https://github.com/KumoCorp/kumomta) - The first Open-Source  high-performance MTA developed from the ground-up for high-volume email sending environments.
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
-- [abusix/xarf](https://github.com/abusix/xarf) - XARF - eXtended Abuse Reporting Format
+- [abusix/xarf](https://github.com/abusix/xarf) - DEPRECATED — legacy XARF v3 schema. XARF has moved to v4: https://xarf.org and https://github.com/xarf
 - [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email
 
 ## Infra - HPC 
@@ -351,7 +351,7 @@
 - [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
 - [kakwa/ldfl](https://github.com/kakwa/ldfl) - ldfl: a File Lying Library, LD_PRELOAD library remapping files to other location or in memory embedding.
 - [jstedfast/gmime](https://github.com/jstedfast/gmime) - A C/C++ MIME creation and parser library with support for S/MIME, PGP, and Unix mbox spools.
-- [EpicGamesExt/raddebugger](https://github.com/EpicGamesExt/raddebugger) - A native, user-mode, multi-process, graphical debugger.
+- [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 
 ## Library - CPP 
 
@@ -549,7 +549,7 @@
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [EbodShojaei/bake](https://github.com/EbodShojaei/bake) - mbake is a Makefile formatter and linter. It only took 50 years!
-- [EpicGamesExt/raddebugger](https://github.com/EpicGamesExt/raddebugger) - A native, user-mode, multi-process, graphical debugger.
+- [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) - A native, user-mode, multi-process, graphical debugger.
 - [kovetskiy/mark](https://github.com/kovetskiy/mark) - Sync your markdown files with Confluence pages.
 
 ## Tools - Infra 
