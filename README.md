@@ -44,7 +44,7 @@
 - [PaddleStroke/FreeCAD](https://github.com/PaddleStroke/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker
 - [lhndo/LH-Stinger](https://github.com/lhndo/LH-Stinger) - Fast, Precise, Cartesian, FDM 3D Printer
 - [kakwa/misc-3d-models](https://github.com/kakwa/misc-3d-models) - Misc 3D models from my projects
-- [hannobraun/fornjot](https://github.com/hannobraun/fornjot) - Early-stage b-rep CAD kernel, written in the Rust programming language.
+- [hannobraun/fornjot](https://github.com/hannobraun/fornjot) - Early-stage b-rep CAD kernel, written in the Rust programming language. No longer in development.
 - [shaise/FreeCAD_FastenersWB](https://github.com/shaise/FreeCAD_FastenersWB) - A workbench to add/attach various fasteners to parts
 - [FreeCAD/FreeCAD-library](https://github.com/FreeCAD/FreeCAD-library) - A library of Parts for FreeCAD. WARNING - This library is huge. It might take a long time to download and make the addons manager unresponsive for many minutes.
 - [kevinakasam/KlackEnder-Probe](https://github.com/kevinakasam/KlackEnder-Probe) - Klicky / Quickdraw Probe for the Ender 3
