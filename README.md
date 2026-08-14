@@ -531,6 +531,7 @@
 - [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
 - [kakwa/hnrss-ai-filtering](https://github.com/kakwa/hnrss-ai-filtering) - Custom, realtime RSS feeds for Hacker News - AI filtering version
+- [kakwa/arte-rss-subfeeds](https://github.com/kakwa/arte-rss-subfeeds) - RSS Feed proxy for Arte.tv. This service record the RSS feed history, and provides per category RSS sub-feeds.
 
 ## Tools - Dev 
 
