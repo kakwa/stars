@@ -54,6 +54,7 @@
 - [Sienci-Labs/gsender](https://github.com/Sienci-Labs/gsender) - Connect to and control grbl and grblHAL-based CNCs with ease
 - [JackJack3231/MiniSB-Extruder-Mounts](https://github.com/JackJack3231/MiniSB-Extruder-Mounts) - Remix of the Mini-Stealthburner to run other Extruders
 - [bigtreetech/BIGTREETECH-Stepper-Motor-Driver](https://github.com/bigtreetech/BIGTREETECH-Stepper-Motor-Driver) - 
+- [FreddieHong19/Open5x](https://github.com/FreddieHong19/Open5x) - This is a Github repository for 5-axis 3D printing
 
 ## AI 
 
@@ -497,7 +498,7 @@
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS reader
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
-- [apple/ml-simplefold](https://github.com/apple/ml-simplefold) - 
+- [apple-aiml-research/ml-simplefold](https://github.com/apple-aiml-research/ml-simplefold) - 
 - [sitandr/typst-examples-book](https://github.com/sitandr/typst-examples-book) - Book of educational examples for Typst
 - [lonkaars/typst-metalogo](https://github.com/lonkaars/typst-metalogo) - Typeset LaTeX compiler logos in typst
 - [ptsouchlos/modern-cv](https://github.com/ptsouchlos/modern-cv) - A modern resume template written in Typst, inspired by Awesome-CV
