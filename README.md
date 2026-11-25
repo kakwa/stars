@@ -398,6 +398,7 @@
 - [jmapio/jmap-js](https://github.com/jmapio/jmap-js) - A full JavaScript implementation of the JMAP data model
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow | Vue Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev), Svelte (https://svelteflow.dev) and Vue (https://vueflow.dev). Read
 - [w8r/martinez](https://github.com/w8r/martinez) - Martinez-Rueda polygon clipping algorithm, does boolean operation on polygons (multipolygons, polygons with holes etc): intersection, union, difference, xor
+- [mantinedev/ui.mantine.dev](https://github.com/mantinedev/ui.mantine.dev) - Mantine UI website and components
 
 ## Library - Misc 
 
