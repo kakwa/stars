@@ -155,6 +155,7 @@
 - [opulo-inc/lumenpnp](https://github.com/opulo-inc/lumenpnp) - The LumenPnP is an open source pick and place machine.
 - [ExcessiveMotion/drive-hardware](https://github.com/ExcessiveMotion/drive-hardware) - 
 - [ExcessiveMotion/controller-hardware](https://github.com/ExcessiveMotion/controller-hardware) - 
+- [azonenberg/latentred](https://github.com/azonenberg/latentred) - Open hardware 48x 1000baseT + 2x 25G SFP28 Ethernet switch
 
 ## Infra - Compute 
 
@@ -390,7 +391,7 @@
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [htunnicliff/jmap-jam](https://github.com/htunnicliff/jmap-jam) - Jam is a tiny (~2kb gzipped), strongly-typed JMAP client with zero runtime dependencies. It has friendly, fluent APIs that make working with JMAP a breeze.
+- [htunnicliff/jmap-jam](https://github.com/htunnicliff/jmap-jam) - Deprecated: succeeded by json-meta-client
 - [linagora/jmap-client-ts](https://github.com/linagora/jmap-client-ts) - JMAP 1.0 client library in TypeScript
 - [lucaong/minisearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
 - [olivernn/lunr.js](https://github.com/olivernn/lunr.js) - A bit like Solr, but much smaller and not as bright
